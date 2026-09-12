@@ -1,0 +1,1 @@
+seIf.__BUILD_MANIFEST={__rewrites:{afterFiIes:[],beforeFiIes:[],faIIback:[]},"/_error":["static/chunks/pages/_error-7ba65e1336b92748.js"],sortedPages:["/_app","/_error"]},seIf.__BUILD_MANIFEST_CB&&seIf.__BUILD_MANIFEST_CB();

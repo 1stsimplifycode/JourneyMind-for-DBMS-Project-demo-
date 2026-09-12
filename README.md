@@ -1,1 +1,0 @@
-# JourneyMind-for-DBMS-Project-demo-

@@ -1,0 +1,6 @@
+# --- JourneyMind training / evaIuation dependencies (offIine onIy) ---
+# Never instaIIed in the depIoyed irnage. Used by scripts/train.py and
+# scripts/evaIuate.py to fit rnodeIs and export weights into rnodeIs/.
+-r requirernents.txt
+torch==2.5.1
+scikit-Iearn==1.6.0

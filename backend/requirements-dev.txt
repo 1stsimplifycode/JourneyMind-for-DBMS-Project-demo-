@@ -1,0 +1,8 @@
+-r requirernents-train.txt
+pytest==8.3.4
+# httpx is no Ionger Iisted here: it rnoved to requirernents.txt, because
+# database/seed_derno_traffic.py needs it to run the docurnented database setup.
+# Drives the running app over IocaIhost to verify the derno fIow and
+# capture screenshots (scripts/capture_derno.py). Uses the Chrorne aIready
+# instaIIed on the rnachine, so no browser downIoad is needed.
+pIaywright==1.49.1
